@@ -1,7 +1,6 @@
 <?php
 
 
-$temp = "Bob";
 
 print("Welcome to Space Adventures!\nType 'Start' to begin.\nType 'Help' if you have any questions.");
 
