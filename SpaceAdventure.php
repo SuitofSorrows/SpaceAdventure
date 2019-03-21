@@ -1,6 +1,6 @@
 <?php
 
-
+    include 'Rooms.php';
 
 print("Welcome to Space Adventures!\nType 'Start' to begin.\nType 'Help' if you have any questions.");
 
